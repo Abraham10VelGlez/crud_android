@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_sesion"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Inicio de Sesión" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@android:drawable/stat_sys_phone_call_forward"
+            android:title="Whatsap" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Ubicación" />
+    </group>
+</menu>

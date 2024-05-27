@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Antojitos Lolis</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login22">LoginActivity22</string>
+    <string name="title_activity_login3">LoginActivity3</string>
+    <string name="facebook_app_id">408412637113307</string>
+    <string name="fb_login_protocol_scheme">fb408412637113307</string>
+    <string name="error_login">Ocurrió un error al ingresar</string>
+    <string name="nombre_terminosyc">Términos y Condiciones</string>
+    <string name="not_close_session">No se puede cerrar sesión</string>
+    <string name="not_revoke">Cierra sesión y borrar vinculacion</string>
+</resources>

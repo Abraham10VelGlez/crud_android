@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534003106319",
+    "project_id": "antojitoslolis-bd1a3",
+    "storage_bucket": "antojitoslolis-bd1a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534003106319:android:1148035b19c2132363997a",
+        "android_client_info": {
+          "package_name": "com.example.antojitos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534003106319-ml8j58aorpbn2udpbp5t9inri0jtkdbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antojitos",
+            "certificate_hash": "b2f119e21b63892d05568e89667a0b9441a0c3e6"
+          }
+        },
+        {
+          "client_id": "534003106319-5dhc3aipmgtn2ojlvr7f6nkp3ouaf0l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-jU55EN54sT6zM-06V2MOujifAFmK9EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534003106319-5dhc3aipmgtn2ojlvr7f6nkp3ouaf0l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
